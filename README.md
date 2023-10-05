@@ -38,4 +38,4 @@ The assignment is organized into several segments:
 
 ## Contact (GitHub)
 Created by: 
-- [Rohit Chandel]
+- [RohitChandel1]
